@@ -1,4 +1,4 @@
-# Symbiotic-Multi-Effects-Guitar-Pedal
+# Symbiotic Multi-Effects Guitar Pedal
 
 This project was created as part of my 3rd year University project during my BEng Electronic Engineering degree at the University of Manchester, UK. The start date was September 2021 and the completion date was May 2022.
 
