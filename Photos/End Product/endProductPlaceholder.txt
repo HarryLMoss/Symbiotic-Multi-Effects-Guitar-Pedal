@@ -1,3 +1,3 @@
-In this folder we have the final design of the guitar pedal, most notably attached to the guitar body.
+In this folder we have the final design of the guitar pedal, most notably attached to the guitar body. There are also photos taken from the peer review sessions included.
 
-Peer review photos as well as a short video are also included which demonstrate the functionality of each of the effects in real-time.
+This [short video](https://drive.google.com/file/d/1bZtaHuSL4E7lbnmdPmNMsFeQU9mE2X98/view?usp=sharing) of the product hosted by myself demonstrates the music effects working in real-time, and is a good opportunity to listen and hear them for yourself.
