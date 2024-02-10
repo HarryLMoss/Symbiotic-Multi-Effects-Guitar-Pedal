@@ -1,0 +1,3 @@
+In this folder we have the final design of the guitar pedal, most notably attached to the guitar body.
+
+There is also a short video included which demonstrates the effect functionality in real-time.
