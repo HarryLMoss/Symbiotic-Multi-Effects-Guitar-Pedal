@@ -4,6 +4,8 @@ This project was created as part of my 3rd year University project during my BEn
 
 Please find all relevent reports as well as product photos in the various folders in this repository. If you would like to view the complete project program (written in C and Assembly code) then please check [this link.](https://github.com/HarryLMoss/Symbiotic-Multi-Effects-Guitar-Pedal/blob/main/Program.c)
 
+If you would like to quickly view a short video displaying this project in action, then please check [this link.](https://drive.google.com/file/d/1bZtaHuSL4E7lbnmdPmNMsFeQU9mE2X98/view?usp=sharing)
+
 
 
 _Skills Acquired:_
