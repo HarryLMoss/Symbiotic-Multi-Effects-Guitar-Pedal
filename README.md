@@ -32,7 +32,7 @@ The Symbiotic Multi-Effects Guitar Pedal is an innovative solution for electric 
 1. Clone this repository to your local machine.
 2. Open the project in CrossCore Embedded Studio.
 3. Ensure the ADSP-BF706 board is connected to your PC.
-4. Build the project and flash it to the board following the IDE's instructions.
+4. Build the project and flash it to the board following the instructions on [this document](https://github.com/HarryLMoss/Symbiotic-Multi-Effects-Guitar-Pedal/blob/5e248a305c71987d566fe53f30ccaba5e6649da4/Drivers/flash%20programming.docx).
 
 ## Usage
 1. Power on the ADSP-BF706 board.
