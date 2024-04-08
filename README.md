@@ -51,9 +51,9 @@ Contributions to improve the Symbiotic Multi-Effects Guitar Pedal are welcome. P
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-## Acknowledgments
+## Acknowledgements
 - Special thanks to my project supervisor, Dr. Patrick Gaydecki, for his guidance and support throughout the development process.
-- Acknowledgment to the University of Manchester and the Department of Electrical & Electronic Engineering for providing the resources and environment conducive to this project's success.
+- Acknowledgement to the University of Manchester and the Department of Electrical & Electronic Engineering for providing the resources and environment conducive to this project's success.
 
 ## Additional Resources
 - [Project Report](https://github.com/HarryLMoss/Symbiotic-Multi-Effects-Guitar-Pedal/blob/b745425271cbf792a98e93e68626e8cd2b41ad5a/Reports/FinalReport.docx)
