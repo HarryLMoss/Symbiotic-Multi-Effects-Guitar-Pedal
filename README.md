@@ -13,13 +13,7 @@ The Symbiotic Multi-Effects Guitar Pedal is an innovative solution for electric 
 - **Hardware Interaction:** GPIO for effect toggling and LED feedback.
 - **Flash Memory Management:** For storing user presets.
 
-## Skills Acquired
-- C Programming
-- Assembly Language (Blackfin)
-- Digital Signal Processing
-- Use of CrossCore Embedded Studio IDE
-- Hardware Engineering (Soldering/Wiring)
-- Experience with Electric Guitar Audio Processing
+
 
 ## Getting Started
 
